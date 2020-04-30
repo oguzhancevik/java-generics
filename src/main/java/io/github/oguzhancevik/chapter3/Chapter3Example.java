@@ -1,7 +1,5 @@
 package io.github.oguzhancevik.chapter3;
 
-import io.github.oguzhancevik.chapter3.before.AgeComparator;
-import io.github.oguzhancevik.chapter3.before.ReverseComparator;
 import io.github.oguzhancevik.model.Person;
 
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package io.github.oguzhancevik.chapter3.before;
+package io.github.oguzhancevik.chapter3;
 
 import io.github.oguzhancevik.model.Person;
 
